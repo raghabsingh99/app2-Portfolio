@@ -16,7 +16,8 @@ with col2:
 
     st.info(content)
 
-content2 = """Below you can find some of the app I have built in python. Feel Free to contact me!Their primary focus is on ensuring that data is accessible, reliable, and ready for use by data scientists, analysts, 
+content2 = """Below you can find some of the app I have built in python. Feel Free to contact me!
+Their primary focus is on ensuring that data is accessible, reliable, and ready for use by data scientists, analysts, 
     and other stakeholders.
 """
 st.write(content2)
